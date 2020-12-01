@@ -7,6 +7,9 @@ and binary comparison operators, as defined in the original `JSONPath proposal`_
 This packages merges both `jsonpath-rw`_ and `jsonpath-rw-ext`_ and
 provides several AST API enhancements, such as the ability to update or removes nodes in the tree.
 
+Extension of this Fork (building json(dict) objects from a list of tuples (path, value)
+=======================================================================================
+
 About
 -----
 
